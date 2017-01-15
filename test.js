@@ -21,4 +21,6 @@ function handler(req,res){
         res.write(data);
         res.end();
       });
+    }
+  }
 }
